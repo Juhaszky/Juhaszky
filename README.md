@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been learning to code for 2 years. At the beginning i was working in a low-code/no-code environment then i started to work as a frontend developer on another project at the company. Nowadays i am working on a low-code environment and as a frontend developer aswell. My goal is to become a full-stack developer. My current stack: -Angular -Typescript -Nodejs
+I've been learning to code for 4 years. At the beginning i was working in a low-code/no-code environment then i started to work as a frontend developer on another project at the company. Nowadays i am working on a low-code environment and as a frontend developer aswell. My goal is to become a full-stack developer. My current stack: -Angular -Typescript -Nodejs
 
 * 🌍  I'm based in Hungary
 * ✉️  You can contact me at [juhasz.krisztian2000@gmail.com](mailto:juhasz.krisztian2000@gmail.com)
